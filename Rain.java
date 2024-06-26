@@ -39,7 +39,7 @@ public class Rain {
             total+=vals[i];
 
         System.out.println("Total Rainfall: " + total);
-    } 
+    }
 
     public static void calcAVG(double[] vals) {
         double total = 0.0;
